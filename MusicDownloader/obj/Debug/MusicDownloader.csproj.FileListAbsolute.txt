@@ -8,3 +8,6 @@ C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin
 C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.csprojResolveAssemblyReference.cache
 C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.exe
 C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.pdb
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.csprojResolveAssemblyReference.cache
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.exe
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.pdb

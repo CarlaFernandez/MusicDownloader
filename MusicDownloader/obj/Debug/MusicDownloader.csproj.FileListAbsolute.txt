@@ -1,0 +1,10 @@
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\MusicDownloader.exe.config
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\MusicDownloader.exe
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\MusicDownloader.pdb
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\YoutubeExtractor.dll
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\bin\Debug\YoutubeExtractor.xml
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.csprojResolveAssemblyReference.cache
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.exe
+C:\Users\carla\Documents\Git\MusicDownloader\MusicDownloader\MusicDownloader\obj\Debug\MusicDownloader.pdb
